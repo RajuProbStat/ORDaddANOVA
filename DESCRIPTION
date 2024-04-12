@@ -1,0 +1,12 @@
+Package: ORDaddANOVA
+Type: Package
+Title: Functions to evaluate the observed test statistic values, critical values and P values for the test statistics W_1, W_2 and W_3 
+Version: 0.1.0
+Author: Raju Dey
+Maintainer: Raju Dey <rajudey.cob1997@gmail.com>
+Description: For testing simultaneous monotone ordering of both row and column effects with at least one strict inequality in an heterogeneous and unbalanced addtive two-way ANOVA model, the test statistics W_1, W_2 and W_3 are constructed.
+License: GPL-2
+Depends: MASS,NlcOptim,Iso
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
